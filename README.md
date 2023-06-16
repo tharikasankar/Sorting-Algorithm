@@ -62,6 +62,7 @@ print(insertion_sort(list_of_nums))
 
 ## Output:
 ![image](https://github.com/tharikasankar/Sorting-Algorithm/assets/119475507/69da7aac-9ce4-4b33-96fd-caa1220ec23d)
+![image](https://github.com/tharikasankar/Sorting-Algorithm/assets/119475507/2a15ac9a-7d8d-47c3-a534-c64225933217)
 
 
 ## Result:
